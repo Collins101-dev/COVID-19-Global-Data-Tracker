@@ -129,6 +129,7 @@ Create a virtual environment to manage dependencies:
 python -m venv env
 ```
 Activate the environment:
+
 On Windows:
 ```bash
  .\env\Scripts\activate
