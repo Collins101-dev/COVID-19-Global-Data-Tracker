@@ -131,13 +131,13 @@ python -m venv env
 Activate the environment:
 On Windows:
 ```bash
-    .\env\Scripts\activate
-    ```
+ .\env\Scripts\activate
+```
 
-    On Mac/Linux:
-    ```bash
-    source env/bin/activate
-    ```
+On Mac/Linux:
+```bash
+source env/bin/activate
+```
 
 Step 3: Install Dependencies
 Install the required libraries from requirements.txt:
