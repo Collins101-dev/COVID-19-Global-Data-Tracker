@@ -59,7 +59,9 @@ To run the project, you'll need the following Python packages:
 ```bash
     pip install -r requirements.txt
 ```
-4. Run the analysis in Jupyter Notebook:
+4. Download the COVID-19 dataset from [OWID](https://covid.ourworldindata.org/data/owid-covid-data.csv) and place it in the data/ folder. 
+   
+5. Run the analysis in Jupyter Notebook:
    ```bash
     jupyter notebook notebooks/covid_analysis.ipynb
    ```
